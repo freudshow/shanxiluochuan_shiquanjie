@@ -1,0 +1,69 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 6,
+  "TotalYxCount": 0,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "有功上限值",
+      "ModelName": "有功上限值",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "有功下限值",
+      "ModelName": "有功下限值",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "实际有功功率",
+      "ModelName": "实际有功功率",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "有功设定值",
+      "ModelName": "有功设定值",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "AVC可增无功",
+      "ModelName": "AVC可增无功",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 7,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "AVC可减无功",
+      "ModelName": "AVC可减无功",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "PortStyle": 13,
+  "PortNo": 111,
+  "Baud": 0,
+  "Parity": 0,
+  "Data": 0,
+  "Stop": 0,
+  "mode": 130,
+  "ipaddr": "192.168.0.232",
+  "LocalPort": "2404",
+  "RemotePort": "1000",
+  "IsFilter": 0,
+  "ClientIp": "",
+  "Iec101LinkLen": 0
+}
